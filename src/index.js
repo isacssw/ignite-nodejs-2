@@ -10,7 +10,7 @@ app.use(cors());
 const users = [];
 
 function checksExistsUserAccount(request, response, next) {
-  // Complete aqui
+  // Complete aqu
 }
 
 function checksCreateTodosUserAvailability(request, response, next) {
